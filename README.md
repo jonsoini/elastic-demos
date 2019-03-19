@@ -2,6 +2,8 @@
 
 This folder has the Canvas workpads, dummy data script and notes on how to recreate the Canvas demo from the March '19 Seattle Elasticsearch meetup group.
 
+Once we get more demos here we'll put them in subfolders, but for now, just the one on Canvas.
+
 ## The Demo
 
 The demo walks through building a Canvas workpad running from mock sample data that looks like:
