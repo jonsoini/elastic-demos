@@ -6,7 +6,7 @@ This folder has the Canvas workpads, dummy data script and notes on how to recre
 
 The demo walks through building a Canvas workpad running from mock sample data that looks like:
 
-[img]
+![dashboard example](https://raw.githubusercontent.com/tmobile/elastic-demos/master/images/tmo-example-dash.gif)
 
 ## Pre-requisites
 
