@@ -1,12 +1,18 @@
 # Elastic Demos
 
-This folder has the Canvas workpads, dummy data script and notes on how to recreate the Canvas demo from the March '19 Seattle Elasticsearch meetup group.
+This folder has the Canvas workpads, slides and other Elastic Search-related items we've presented.
 
-Once we get more demos here we'll put them in subfolders, but for now, just the one on Canvas.
+## Elastic{on} Presentation - Seattle May 23rd 2019
 
-## The Demo
+Slides and related canvas workpads as presented at the Seattle Elastic conference are in the `/seattle-elasticon-may19` folder.
 
-The demo walks through building a Canvas workpad running from mock sample data that looks like:
+'Enterprise' Dashboard
+
+![enterprise dashboard](https://raw.githubusercontent.com/tmobile/elastic-demos/master/seattle-elasticon-may19/ezgif-2-0e687b9c4ecc.gif)
+
+## Elastic Meetup - Seattle March 2019
+
+The meetup demo walks through building a Canvas workpad running from mock sample data that looks like:
 
 ![dashboard example](https://raw.githubusercontent.com/tmobile/elastic-demos/master/images/tmo-example-dash.gif)
 
