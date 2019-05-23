@@ -6,11 +6,11 @@ This folder has the Canvas workpads, slides and other Elastic Search-related ite
 
 Slides and related canvas workpads as presented at the Seattle Elastic conference are in the `/seattle-elasticon-may19` folder.
 
-[Slides are here](https://github.com/tmobile/elastic-demos/blob/master/seattle-elasticon-may19/T-Mobile%20Elasticon%202019%20SEA.pdf)
+[**Slides are here**](https://github.com/tmobile/elastic-demos/blob/master/seattle-elasticon-may19/T-Mobile%20Elasticon%202019%20SEA.pdf)
 
-[/seattle-elasticon-may19](https://github.com/tmobile/elastic-demos/tree/master/seattle-elasticon-may19)
+**'Enterprise' Dashboard**
 
-'Enterprise' Dashboard
+Here in this folder >> [/seattle-elasticon-may19](https://github.com/tmobile/elastic-demos/tree/master/seattle-elasticon-may19)
 
 ![enterprise dashboard](https://raw.githubusercontent.com/tmobile/elastic-demos/master/seattle-elasticon-may19/ezgif-2-0e687b9c4ecc.gif)
 
